@@ -11,5 +11,5 @@ I created this array;
 Bubble sort algorithm listed the values and print 
 
 
-![image](https://github.com/soykuvvetberat34/Bubble-Sort-Algorithm-C/assets/69586522/edb2e780-446d-46a5-bb27-f3e1fb1d2adb)
+![image](https://github.com/soykuvvetberat34/Bubble-Sort-Algorithm-C/assets/69586522/69506c0b-ebe5-4124-9699-fa78c82699af)
 

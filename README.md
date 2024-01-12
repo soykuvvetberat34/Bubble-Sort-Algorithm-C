@@ -1,4 +1,5 @@
 Bubble sort algorithm 
+
 If you have a array and this array's values not sorted properly ,Bubble sort solve this problem 
 
 I created this array;
